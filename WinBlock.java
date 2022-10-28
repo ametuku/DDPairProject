@@ -22,6 +22,7 @@ public class WinBlock extends WallBlock{
 //			win();
 			return true;
 			
+
 		}
 		return false;
 	}
