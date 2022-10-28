@@ -12,6 +12,7 @@ public class EasyGuard extends Guard{
 //		
 //	}
 
+
 	@Override
 	public void setMovement(int dx, int dy) {
 		// TODO Auto-generated method stub

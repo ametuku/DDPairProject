@@ -13,6 +13,7 @@ public class Player extends Character{
 	
 	String imageAddress = ""; // Change this when back in schools
 	Map map;
+	
 	Player(String imageFilePath, Map mappy){
 		imageAddress = imageFilePath;
 		setCharacterImage(imageAddress);

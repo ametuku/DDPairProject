@@ -19,6 +19,7 @@ public class WallBlock extends Character {
 	public void updatePosition() {
 		// TODO Auto-generated method stub
 		xComponent = GivenX;
+		
 		yComponent = GivenY;
 	}
 

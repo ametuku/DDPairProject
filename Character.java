@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.awt.event.*;
 
 
+
 public abstract class Character {
 	int[][] Coordinates /*= {{2,2},{2,2}}*/;
 	boolean isAlive= true;

@@ -21,6 +21,7 @@ public class WinBlock extends WallBlock{
 		if(otherCharacter instanceof Player) {
 //			win();
 			return true;
+			
 		}
 		return false;
 	}
